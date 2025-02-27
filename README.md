@@ -25,7 +25,7 @@ Navigate to the following folders for more information about using the functions
 
 #### Additional Documentation
 
-The Inside Macintosh books are a great source of information for these oldest compact Macs, programming wise: https://vintageapple.org/inside_o/
-THINK Reference 2.0 is an invaluable aid for programming and quickly navigating related topics: https://macintoshgarden.org/apps/think-reference
-This popular Tinker Different forum resource page is a great starting point to get going with this particular target platform, using emulation as a development platform: https://tinkerdifferent.com/resources/think-c-development.84/
-This series on YouTube for Mac programming is tied to this page, from yours truly for both! https://www.youtube.com/watch?v=Vv3w2igjiBo&list=PLwCULB5sLmz3OxPemixD2GZtJeDXmb0fx
+* The Inside Macintosh books are a great source of information for these oldest compact Macs, programming wise: https://vintageapple.org/inside_o/
+* THINK Reference 2.0 is an invaluable aid for programming and quickly navigating related topics: https://macintoshgarden.org/apps/think-reference
+* This popular Tinker Different forum resource page is a great starting point to get going with this particular target platform, using emulation as a development platform: https://tinkerdifferent.com/resources/think-c-development.84/
+* This series on YouTube for Mac programming is tied to this page, from yours truly for both! https://www.youtube.com/watch?v=Vv3w2igjiBo&list=PLwCULB5sLmz3OxPemixD2GZtJeDXmb0fx
