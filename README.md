@@ -16,7 +16,7 @@ Development IDE: Symantec THINK C++ 6.0
 ### Folders in this repository 
 Navigate to the following folders for more information about using the functions for each category of source code 
 
-* Graphics:  Offscreen bitmaps, Sprites with multiple frames and with masks, Alternate Screen Buffer (to do), Dissolve effect (to do) 
+* [https://github.com/Mu0n/1bitdreammachine/tree/first-big-sort/Graphics Graphics]:  Offscreen bitmaps, Sprites with multiple frames and with masks, Alternate Screen Buffer (to do), Dissolve effect (to do) 
 * MIDI: Send MIDI out commands to an external device, receive MIDI in commands (to do), Standard MIDI file playback type 0 and type 1 (wip) 
 * PrepTools: GrafPort/Windows prep functions, Ranged Random, File Load Dialog, Misc time-saving tools 
 * SoundDriver: Square wave synth, 4-voice synth, Freeform synth
