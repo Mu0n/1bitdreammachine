@@ -1,2 +1,6 @@
-# 1bitdreammachine
-Game programming API for 68000 Macintoshes, in particular the Mac Plus
+# 1Bit Dream Machine
+
+## MIDI Folder 
+
+* RealTimeMIDI: (todo) Will deal with MIDI in and MIDI out commands
+* StandardMIDIFile: (todo) Open, parse and plays back a standard midi file
