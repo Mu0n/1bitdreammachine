@@ -1,2 +1,7 @@
-# 1bitdreammachine
-Game programming API for 68000 Macintoshes, in particular the Mac Plus
+# 1Bit Dream Machine
+
+## Timer Folder 
+
+(lots of cleanup needed here)
+
+* Timer: (todo)
