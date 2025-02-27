@@ -1,2 +1,6 @@
-# 1bitdreammachine
-Game programming API for 68000 Macintoshes, in particular the Mac Plus
+# 1Bit Dream Machine
+
+## Graphics Folder 
+
+* Offscreen: Functions that help you initialize offscreen bitmaps and load graphic assets into them
+* Sprites: Basically a software based sprite engine
