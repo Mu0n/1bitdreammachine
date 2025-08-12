@@ -1,0 +1,1 @@
+//mac version of the message diagnostics feedback in text#include "stdio.h"#include "string.h"void PausePrompt(Str255 msg, long value);void PausePrompt(Str255 msg, long value)	{	char answer[80];	printf("\nPause. Enter . to continue\n\n");	printf("%s %ld\n",msg, value);	while(true)		{		gets(answer);		if(strcmp(answer,".")==0) return;		}	}
