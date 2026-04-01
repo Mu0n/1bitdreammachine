@@ -16,6 +16,7 @@ Development IDE: Symantec THINK C++ 6.0
 ### Folders in this repository 
 Navigate to the following folders for more information about using the functions for each category of source code 
 
+* [FireJam](https://github.com/Mu0n/1bitdreammachine/tree/main/Firejam): Lets your compact mac be at the center of music production. It can take in mouse clicks, typing keyboard playing and MIDI in keyboard playing. It can output sound in the old Mac Sound Driver, or to a MIDI out connected external module.
 * [Graphics](https://github.com/Mu0n/1bitdreammachine/tree/main/Graphics):  Offscreen bitmaps, Sprites with multiple frames and with masks, Alternate Screen Buffer (to do), Dissolve effect (to do) 
 * [MIDI](https://github.com/Mu0n/1bitdreammachine/tree/main/MIDI): Send MIDI out commands to an external device, receive MIDI in commands (to do), Standard MIDI file playback type 0 and type 1 (wip) 
 * [PrepTools](https://github.com/Mu0n/1bitdreammachine/tree/main/PrepTools): GrafPort/Windows prep functions, Ranged Random, File Load Dialog, Misc time-saving tools 
