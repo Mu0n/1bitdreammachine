@@ -1,0 +1,1 @@
+#ifndef MUEVENTS_H#define MUEVENTS_H#define kSleep 10L#define kUseDefaultProc (void *)-1Lvoid eventPass(void);void HandleMouseDown(EventRecord *);void HandleMouseUp(EventRecord *);void HandleMenuChoice(long);void DoUpdate(EventRecord *);void playingLoop(void);extern Boolean mainWindowReady;#endif

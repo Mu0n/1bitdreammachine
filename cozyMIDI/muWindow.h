@@ -1,0 +1,1 @@
+#ifndef MUWINDOW_H#define MUWINDOW_H#define kBaseWinID 128#define kMoveToFront (WindowPtr)-1Ltypedef struct pictButtonRec {PicHandle pic;Boolean active;Rect r;} pictButtonRec, *pictButtonPtr, **pictButtonH;void prepWindow(void);extern Rect muWinRect;extern WindowPtr muWinPtr;extern DialogPtr muDialogPtr;#endif
