@@ -1,0 +1,1 @@
+#ifndef __MYWINDOW_H#define __MYWINDOW_H#define kBaseWinID 128#define kMoveToFront (WindowPtr)-1L#define kBkgPICT 128void myInitStuff(void);void myWindow(Boolean);#endif //__MYWINDOW_H
