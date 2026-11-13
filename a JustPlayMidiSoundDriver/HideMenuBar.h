@@ -1,0 +1,1 @@
+#ifndef __HIDEMENUBAR_H#define __HIDEMENUBAR_Hvoid hideMenuBar(void);void showMenuBar(void);#endif //__HIDEMENUBAR_H
